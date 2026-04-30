@@ -76,7 +76,8 @@ telecom-churn-dashboard/
 
 ## 📊 Executive Dashboard Preview
 
-![Executive Dashboard](visuals/00_executive_dashboard.png)
+<img width="2367" height="1470" alt="image" src="https://github.com/user-attachments/assets/a79dd1b6-54a3-415f-8fc6-5ed213b3e4e1" />
+
 
 ---
 
@@ -84,10 +85,10 @@ telecom-churn-dashboard/
 
 | Finding | Detail |
 |---|---|
-| **Overall Churn Rate** | 41.7% — 2,925 of 7,012 customers churned |
+| **Overall Churn Rate** | 41.7% - 2,925 of 7,012 customers churned |
 | **Monthly Revenue at Risk** | ~$195,500/month from churned customers |
 | **Contract Type** | Month-to-month churn at **53.3%** vs 23.7% for two-year |
-| **New Customers** | 0–12 month customers churn at **51%** — critical risk window |
+| **New Customers** | 0–12 month customers churn at **51%**  critical risk window |
 | **Internet Service** | Fiber optic customers churn at **49.9%** despite premium pricing |
 | **Payment Method** | Electronic check users churn 6.8% more than auto-pay users |
 | **Senior Citizens** | Churn at **44.8%** vs 41.1% for non-seniors |
