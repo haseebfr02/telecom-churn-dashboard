@@ -130,6 +130,6 @@ telecom-churn-dashboard/
 
 ## 👤 Author
 
-**Haseeb Waqas** — Data Analyst  
+**Haseeb Waqas**  Data Analyst  
 📧 haseeb.fr02@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/haseeb-waqas-15531b2a0/)
