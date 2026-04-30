@@ -1,13 +1,7 @@
-# 📊 Telecom Customer Churn — End-to-End BI Pipeline
+# 📊 Telecom Customer Churn End-to-End BI Pipeline
 
-> A complete **data analytics and BI pipeline** project — from raw data ingestion
+> A complete **data analytics and BI pipeline** project  from raw data ingestion
 > through ETL, SQL analysis, and interactive Power BI dashboard delivery.
-
----
-
-## 🔗 Live Dashboard
-**[View Power BI Dashboard →](#)** ← *(paste your Power BI link here)*  
-**[View Tableau Dashboard →](#)** ← *(paste your Tableau Public link here)*
 
 ---
 
@@ -113,9 +107,9 @@ telecom-churn-dashboard/
 
 ## 🗄 Database Schema (SQLite)
 
-- **fact_customers** — 7,012 rows, main fact table
-- **dim_contract** — 3 rows, contract type dimension
-- **agg_churn_summary** — 572 rows, pre-aggregated for Power BI
+- **fact_customers**  7,012 rows, main fact table
+- **dim_contract** 3 rows, contract type dimension
+- **agg_churn_summary**  572 rows, pre-aggregated for Power BI
 
 ---
 
@@ -133,26 +127,8 @@ telecom-churn-dashboard/
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/telecom-churn-dashboard.git
-cd telecom-churn-dashboard
-pip install -r requirements.txt
-
-# Run pipeline step by step
-python3 pipeline/step1_data_sourcing.py
-python3 pipeline/step2_etl_pipeline.py
-python3 pipeline/step3_sql_analysis.py
-
-# Then build Power BI dashboard
-# → Follow dashboard/POWERBI_GUIDE.md
-```
-
----
-
 ## 👤 Author
 
 **Haseeb Waqas** — Data Analyst  
 📧 haseeb.fr02@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+🔗 [LinkedIn](https://www.linkedin.com/in/haseeb-waqas-15531b2a0/)
